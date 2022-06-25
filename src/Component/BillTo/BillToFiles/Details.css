@@ -1,0 +1,13 @@
+.details{
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.details>h3{
+    text-decoration: underline;
+}
+.details__div{
+    margin-top: -18px;
+    display: flex;
+    flex-direction: column;
+}

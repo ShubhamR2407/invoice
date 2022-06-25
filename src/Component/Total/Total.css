@@ -1,0 +1,8 @@
+.total{
+    display: flex;
+    justify-content: right;
+    margin: 10px;
+}
+.total>span{
+    margin-left: 5px;
+}

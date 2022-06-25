@@ -1,0 +1,15 @@
+.billTo{
+display: flex;
+justify-content:stretch;
+margin-bottom: 20px;
+margin-top: -5px;
+}
+.billTo__td{
+    text-align: left;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.billTo__table >tr > td{
+    width: 500px;
+}

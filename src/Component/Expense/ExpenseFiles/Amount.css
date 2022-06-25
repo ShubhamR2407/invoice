@@ -1,0 +1,13 @@
+.amount{
+    padding-left: -10px;
+    display: flex;
+    flex-direction: column;
+}
+.cost{
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px;
+}
+.bold{
+    margin-bottom: 10px;
+}

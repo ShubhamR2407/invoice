@@ -1,0 +1,14 @@
+.address{
+    line-height: 2;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.address__name{
+    font-weight: 400;
+    font-size: 30px;
+}
+.address__address{
+    letter-spacing: 1px;
+    
+}

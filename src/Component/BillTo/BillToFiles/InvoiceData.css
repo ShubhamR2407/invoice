@@ -1,0 +1,29 @@
+.invoiceData{
+     
+    margin-left: 350px;
+    display: flex;
+    flex-direction: column;
+    letter-spacing: 1px;
+}
+.invoiceData__number{
+    align-items: center;
+    justify-content: left;
+    display: flex;
+}
+.invoiceData__number> span{
+    padding-top: 3px;
+}
+.invoiceData__number>h3{
+    text-decoration: underline;
+}
+.invoiceData__data{
+    align-items: center;
+    justify-content: left;
+    display: flex;
+}
+.main{
+    font-weight: bold;
+}
+.invoiceData__div{
+    margin-top: -18px;
+}
